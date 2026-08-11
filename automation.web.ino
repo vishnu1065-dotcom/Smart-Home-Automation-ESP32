@@ -6,8 +6,8 @@
 #include <DHT.h>
 
 // ==================== CONFIGURATION ====================
-const char* ssid = "INKER_ROBOTICS.....!!!!!";
-const char* password = "Inker.Robotics@2022";
+const char* ssid = "your ssid";
+const char* password = "your password";
 
 
 String authorizedUID = "51 AB BE 6E";
